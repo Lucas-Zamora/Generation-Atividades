@@ -1,10 +1,11 @@
 programa
 {
-	//1. Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e
-	//dias e mostre-a expressa apenas em dias.
 	
 	funcao inicio()
 	{
+		//1. Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e
+		//dias e mostre-a expressa apenas em dias.
+		
 		inteiro anos,meses,dias,d2
 
 		escreva("Insira sua idade em anos:")
