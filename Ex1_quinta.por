@@ -1,9 +1,17 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica
+ --> mat
 	
 	funcao inicio()
 	{
+		//1- A prefeitura de uma cidade fez uma pesquisa entre 20 de seus habitantes,
+		//coletando dados sobre o salário e número de filhos. A prefeitura deseja saber:  
+		//a) média do salário da população;
+		//b) média do número de filhos;
+		//c) maior salário;
+		//d) percentual de pessoas com salário até R$100,00.
+		
 		real salario,j=0.0,somaS=0.0, somaF=0.0, mediaS=0.0, mediaF=0.0, maiorSalario= 0.0, salarioMenor=0.0
 		inteiro filhos
 		const inteiro habitantes = 3
