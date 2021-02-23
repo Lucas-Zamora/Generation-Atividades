@@ -1,9 +1,13 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica
+ --> mat
 	
 	funcao inicio()
 	{
+		//Escreva um sistema que leia três números inteiros e positivos (A, B, C) e
+		//calcule a seguinte expressão: D=R+S/2, onde R(A+B)² e S(B+C)²
+		
 		inteiro a,b,c,d,r,s
 
 		escreva("Insira o primeiro número:")
