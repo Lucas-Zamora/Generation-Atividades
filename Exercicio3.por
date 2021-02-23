@@ -3,6 +3,9 @@ programa
 	
 	funcao inicio()
 	{
+		//3. Faça um sistema que leia o tempo de duração de um evento em uma fábrica
+		//expressa em segundos e mostre-o expresso em horas, minutos e segundos.
+		
 		inteiro tempoDuracao = 0
 		inteiro horas = 0
 		inteiro minutos = 0
