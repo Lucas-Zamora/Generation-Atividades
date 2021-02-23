@@ -3,6 +3,13 @@ programa
 	
 	funcao inicio()
 	{
+		//Um sistema de equações lineares do tipo: 
+		// ax + by = c 
+		// dx + ey = f
+		// pode ser resolvido segundo mostrado abaixo :
+		// x = ce - bf/ae - bd  
+		// y = af - cd/ae - bd
+		
 		real a,b,c,d,et,f,x,y
 
 		escreva("Digite o valor de a: ")
