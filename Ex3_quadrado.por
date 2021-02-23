@@ -4,6 +4,12 @@ programa
 	
 	funcao inicio()
 	{
+		//Desenvolva um sistema em que:
+		//Leia 4 (quatro) números;
+		//Calcule o quadrado de cada um;
+		//Se o valor resultante do quadrado do terceiro for &gt;= 1000, imprima-o e finalize;
+		//Caso contrário, imprima os valores lidos e seus respectivos quadrados.
+		
 	 	//numeros e valores
 		real n1,n2,n3,n4
 		real v1,v2,v3,v4
