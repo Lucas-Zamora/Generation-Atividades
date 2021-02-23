@@ -2,7 +2,13 @@ programa
 {
 	
 	funcao inicio()
-	{
+	{	
+		// Escreve um programa que lê duas matrizes N1 (4,6) e N2(4,6) e cria:
+		//a) Uma matriz M1 cujos elementos serão as somas dos elementos de mesma posição
+		//das matrizes N1 e N2;
+		//b) Uma matriz M2 cujos elementos serão as diferenças dos elementos de mesma
+		//posição das matrizes N1 e N2.
+		
 		inteiro N1[][] = {{2,3,4,5,6,7},{2,5,6,7,8,9},{5,7,8,9,6,3},{1,2,5,6,7,5}}
 		inteiro N2[][] = {{3,5,6,7,8,9},{9,7,2,2,3,4},{6,4,2,3,1,5},{7,6,4,6,8,9}}
 		inteiro contL = 0, contC = 0
